@@ -1,5 +1,5 @@
 <h1 align="center">This is a old version, please go to the new version at https://github.com/Block2Paz/Flurga</h1>
-<p align="center"><img width="150" src="https://raw.githubusercontent.com/Block2Paz/Flurga/main/public/img/favicon.ico"></p>
+<p align="center"><img width="150" src="public/img/favicon.ico"></p>
 <h1 align="center">Flurga</h1>
 <p align="center">Flurga is a web interface for Frigate NVR build with "Bootstrap Italia" theme</p>
 
